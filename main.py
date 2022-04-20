@@ -1,2 +1,2 @@
-from animals.animals import animals
+from animalpy.animalpy import animals
 print(animals.picture("dog"))
