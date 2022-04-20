@@ -6,7 +6,7 @@ authors = ["ksIsCute<thebeast47ytbusiness@gmail.com> & Cesiyi<Chandler@UselessCr
 maintainers = ["ksIsCute<thebeast47ytbusiness@gmail.com> & Cesiyi<Chandler@UselessCreations.com>"]
 readme = "animals/README.rst"
 license = "MIT"
-repository = 
+repository = "https://github.com/ksIsCute/Animals.py"
 
 [tool.poetry.dependencies]
 python = "^3.8"
