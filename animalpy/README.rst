@@ -8,9 +8,9 @@ Examples:
 
 .. code:: py
 
-   import animals # Importing the library
-   from animals import animal # Import main class
-   picture = animal.picture("dog") # Get a dog picture
+   import animalpy # Importing the library
+   from animalpy import animals # Import main class
+   picture = animals.picture("dog") # Get a dog picture
    print(picture) # Print the link to the required picture
 
 ======= ==================

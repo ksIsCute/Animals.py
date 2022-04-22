@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "animalPy"
-version = "0.1.5-2"
+version = "0.1.5-3"
 description = "Python wrapper using some-random-api.ml that can get animal images and facts with easy plug-and-play syntax!"
 authors = [
     "ksIsCute <thebeast47ytbusiness@gmail.com>", 

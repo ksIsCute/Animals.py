@@ -1,15 +1,15 @@
+
 import requests
 
 __version__ = "0.1.5-1"
+animallist= ["dog", "cat", "raccoon", "panda", "kangaroo", "koala", "fox", "bird"]
 
 class animals:
-    
     def __check_animal(animal):
         """
         Checks list of valid animals to see if input is inside.
         """
-        animals = ["dog", "cat", "raccoon", "panda", "kangaroo", "koala", "fox", "bird"]
-        if animal.lower() not in animals:
+        if animal.lower() not in animallist:
             raise AttributeError("The animal given doesnt exist! Make sure the animal you want an fact of is in the respected queries!")
   
     def __get_animal(animal):
